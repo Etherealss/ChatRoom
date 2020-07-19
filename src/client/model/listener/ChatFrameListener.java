@@ -18,6 +18,13 @@ import common.Request;
 import common.FileInfo;
 import common.MsgType;
 
+/**
+ * ChatFrame的监听器
+ * 
+ * @author 寒洲
+ * 2020年6月10日
+ * 寒洲
+ */
 public class ChatFrameListener implements ActionListener {
 
 	private ChatFrame chatFrame = null;
